@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Gaetano Amoruso, sviluppatore web. Stack: PHP, JavaScript, HTML/CSS, SCSS, Python, SQL, WordPress, WooCommerce, Bootstrap, GitHub Actions">
+<style>
+.c{fill-opacity:0;animation:show .01s steps(1) forwards}
+.o{opacity:0;animation:show .25s ease-out forwards}
+.cur{opacity:0;animation:blink 1.06s steps(1) infinite}
+@keyframes show{to{fill-opacity:1;opacity:1}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.c{animation:none;fill-opacity:1}.o{animation:none;opacity:1}.cur{animation:none;opacity:1}}
+text{font-family:'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:32px}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF1A8C"/><stop offset=".5" stop-color="#A3238E"/><stop offset="1" stop-color="#3B2A86"/></linearGradient>
+<radialGradient id="tl" cx=".92" cy="1" r=".6"><stop offset="0" stop-color="#2BD0F0" stop-opacity=".35"/><stop offset="1" stop-color="#2BD0F0" stop-opacity="0"/></radialGradient>
+<radialGradient id="hl" cx=".1" cy="0" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="win" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#121531"/><stop offset="1" stop-color="#090A18"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF3FA4"/><stop offset=".5" stop-color="#B565E8"/><stop offset="1" stop-color="#2BD0F0"/></linearGradient>
+<pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="2" fill="#fff" opacity=".035"/></pattern>
+<filter id="sh" x="-10%" y="-20%" width="120%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#14082e" flood-opacity=".55"/></filter>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow2" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="r"><rect width="1200" height="520" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#r)"><rect width="1200" height="520" fill="url(#bg)"/><rect width="1200" height="520" fill="url(#tl)"/><rect width="1200" height="520" fill="url(#hl)"/></g>
+<g filter="url(#sh)"><rect x="40" y="34" width="1120" height="452" rx="26" fill="url(#win)"/></g>
+<path d="M40 100 V60 a26 26 0 0 1 26 -26 H1134 a26 26 0 0 1 26 26 V100 Z" fill="#1B1F42"/>
+<line x1="40" y1="100" x2="1160" y2="100" stroke="#2A2F5E" stroke-width="2"/>
+<rect x="40" y="100" width="1120" height="386" fill="url(#scan)"/>
+<circle cx="80" cy="67" r="11" fill="#FF3FA4"/><circle cx="114" cy="67" r="11" fill="#B565E8"/><circle cx="148" cy="67" r="11" fill="#2BD0F0"/>
+<text x="600.0" y="67" dy=".35em" text-anchor="middle" style="font-size:22px" fill="#8C8FC0">~/progetti — zsh</text>
+<rect x="41.5" y="35.5" width="1117" height="449" rx="25" fill="none" stroke="url(#stroke)" stroke-width="3" opacity=".9"/>
+<text x="92" y="174"><tspan fill="#2BD0F0" filter="url(#glow)">❯</tspan><tspan fill="#F5F2FA" dx="18"><tspan class="c" style="animation-delay:0.50s">w</tspan><tspan class="c" style="animation-delay:0.58s">h</tspan><tspan class="c" style="animation-delay:0.67s">o</tspan><tspan class="c" style="animation-delay:0.75s">a</tspan><tspan class="c" style="animation-delay:0.84s">m</tspan><tspan class="c" style="animation-delay:0.92s">i</tspan></tspan></text><text x="92" y="224" class="o" style="animation-delay:1.36s"><tspan fill="#F5F2FA" font-weight="700">Gaetano Amoruso</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#F5F2FA">sviluppatore web</tspan></text><text x="92" y="290" class="o" style="animation-delay:1.71s"><tspan fill="#2BD0F0" filter="url(#glow)">❯</tspan><tspan fill="#F5F2FA" dx="18"><tspan class="c" style="animation-delay:1.96s">c</tspan><tspan class="c" style="animation-delay:2.04s">a</tspan><tspan class="c" style="animation-delay:2.13s">t</tspan><tspan class="c" style="animation-delay:2.21s"> </tspan><tspan class="c" style="animation-delay:2.30s">s</tspan><tspan class="c" style="animation-delay:2.38s">t</tspan><tspan class="c" style="animation-delay:2.47s">a</tspan><tspan class="c" style="animation-delay:2.55s">c</tspan><tspan class="c" style="animation-delay:2.64s">k</tspan><tspan class="c" style="animation-delay:2.72s">.</tspan><tspan class="c" style="animation-delay:2.81s">t</tspan><tspan class="c" style="animation-delay:2.89s">x</tspan><tspan class="c" style="animation-delay:2.98s">t</tspan></tspan></text><text x="92" y="340" class="o" style="animation-delay:3.41s"><tspan fill="#B565E8">PHP</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#B565E8">JavaScript</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#B565E8">HTML/CSS</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#B565E8">SCSS</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#B565E8">Python</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#B565E8">SQL</tspan></text><text x="92" y="390" class="o" style="animation-delay:3.61s"><tspan fill="#2BD0F0">WordPress</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#2BD0F0">WooCommerce</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#2BD0F0">Bootstrap</tspan><tspan fill="#8C8FC0"> · </tspan><tspan fill="#2BD0F0">GitHub Actions</tspan></text><g class="o" style="animation-delay:4.01s"><text x="92" y="458" fill="#2BD0F0" filter="url(#glow)">❯</text></g><rect class="cur" style="animation-delay:4.01s" x="140" y="424" width="20" height="40" rx="3" fill="#FF3FA4" filter="url(#glow2)"/>
+</svg>
