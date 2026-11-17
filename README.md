@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Gaetano Amoruso, sviluppatore web. Stack: PHP, JavaScript, HTML/CSS, SCSS, Python, SQL, WordPress, WooCommerce, Bootstrap, GitHub Actions" width="100%">
+  <img src="terminale.svg" alt="Gaetano Amoruso, sviluppatore web. Stack: PHP, JavaScript, HTML/CSS, SCSS, Python, SQL, WordPress, WooCommerce, Bootstrap, GitHub Actions" width="100%">
 </p>
 
 Sviluppatore web in [Pixelfarm](https://www.pixelfarm.it).
